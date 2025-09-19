@@ -19,13 +19,22 @@ def center_path():
           reach a monsatic temple. The monks there greet you kindly, and offer to help you return to society, after a warm meal.")
 
 def right_path():
-    print("You walk right and encounter a talking squirrel who challenges you to a duel.")
-    print("The squirrel reveals himself to be a powerful nature spirit who protects these lands from evil. As you
+    print("You walk right and encounter a talking squirrel who challenges you to a duel ")
+    choiceRight = input("Do you accept the challenge? (yes/no): ").strip().lower()
+    if choiceRight == "yes":
+        print("The squirrel reveals himself to be a powerful nature spirit who protects these lands from evil. As you
           accept the spirit's challenge, the very forest around you begins to quake in anticipation. The battle ensues,
           and although the spirit is powerful, you are ruthless, cunning in your swift execution of this spirit. As you
           absorb the power of the spirit, your own powers expand, granting you control over the natural world. You take
           your new powers back to your evil sanctum, where you use your newfound abilities to enforce your iron grip
           on society and the world around you.")
+    elif choiceRight == "no":
+        print("The squirrel reveals himself to be a powerful nature spirit who protects these lands from trespassers.
+        He reveals the offer of a duel was a farce, and that he would kill you anyway. You fight back in self defense,
+        and as you slay the spirit, he absorbs himself into you and corrupts your being, causing an alarming shift
+        in your psyche and moral compass...")
+    else:
+        print("You stand still, unsure what to do. The forest swallows you.")
 
 if __name__ == "__main__":
     intro()
