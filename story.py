@@ -20,6 +20,12 @@ def center_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("The squirrel reveals himself to be a powerful nature spirit who protects these lands from evil. As you
+          accept the spirit's challenge, the very forest around you begins to quake in anticipation. The battle ensues,
+          and although the spirit is powerful, you are ruthless, cunning in your swift execution of this spirit. As you
+          absorb the power of the spirit, your own powers expand, granting you control over the natural world. You take
+          your new powers back to your evil sanctum, where you use your newfound abilities to enforce your iron grip
+          on society and the world around you.")
 
 if __name__ == "__main__":
     intro()
