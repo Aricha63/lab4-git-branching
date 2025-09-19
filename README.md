@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: _[Added ability to take or leave the sword in the stone. Taking it leads to great holy power and an epic quest to defeat the evil Nightmare King. Leaving it saddens the sword and leaves the character wondering if they had forsaken their destiny for greatness. A 3rd option exists if you do anything else that results in an unceremonious end to the story.]_
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
