@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: _[Added ability to accept or reject duel with squirrel. Accepting it leads to a great battle that ends with you taking the power of the nature spirit trapped within, strengthening your iron grip over the people of these lands. Rejecting it leads to him trying to fight you anyways, and in self-defense you absorb the spirit's corruption yourself and are overtaken by it. A 3rd option exists if you do anything else that results in an unceremonious end to the story.]_
 
 ## Final Checklist
 
