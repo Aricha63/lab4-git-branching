@@ -12,6 +12,12 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
+    print("As your hand grips the leather wraps on the hilt, the glow of the sword intensifies. The pommel's
+          unknown insignia glows with a holy yellow light, and glowing runes appear along the flat of the blade.
+          Great power courses through you, as you are given the sight and means to destroy evil wherever you may find it.
+          In the coming months, you work your way through the Realm of Darkness and face off against the Nightmare
+          King. It is a great battle, shadow clashing against light, but your skill and power allow you to overcome him,
+          finally bringing peace to forgotten lands.")
 
 def center_path():
     print("You find a small \"desire trail\" which has cleared a path from frequent use. You follow the path through
